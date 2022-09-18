@@ -1,6 +1,7 @@
 # FLORAbot
 Open-Source platform to monitor plant health and optimize on agriculture through data and augmented speech.
-![florabot logo](https://user-images.githubusercontent.com/58347016/190914519-88831bf0-980c-4257-ad06-31250a4042b8.png)
+
+![florabot logo](https://user-images.githubusercontent.com/58347016/190914597-c5c6265c-ab0e-44f4-a64f-7828ac7b5182.png)
 
 THE CHALLENGES PLANTATION OWNERS FACE TODAY-
 - Many trips have to be taken in order to manually check the soil humidity on a regular basis. - It can be difficult to know the exact amount of water to give plants, thus causing stress for the crops by over or under-watering.
