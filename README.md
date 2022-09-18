@@ -12,7 +12,7 @@ Open-Source platform to monitor plant health and optimize on agriculture through
 ![Untitled-1](https://user-images.githubusercontent.com/58347016/190915456-4ac5c11f-c471-4699-b95f-64c1794c679a.jpg)
 FLORAbot allows plantation owners to instantly know several agricultural data points about their crop.
 -	Soil Moisture (VWC)
--	Soil Temperature
+-	UVA/B irradiance
 -	Ambient Climate Parameters including IAQ.
 thus, enabling better water conservation, less likely to over or under-water crops and save time and resources.
 
