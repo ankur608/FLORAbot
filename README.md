@@ -9,6 +9,7 @@ THE CHALLENGES PLANTATION OWNERS FACE TODAY-
 - It is sometimes difficult to know the optimal time to plant without data.
 - Manually measuring key data points about crops is often difficult, time-consuming, and more likely to be inaccurate.
 
+![Untitled-1](https://user-images.githubusercontent.com/58347016/190915456-4ac5c11f-c471-4699-b95f-64c1794c679a.jpg)
 FLORAbot allows plantation owners to instantly know several agricultural data points about their crop.
 -	Soil Moisture (VWC)
 -	Soil Temperature
