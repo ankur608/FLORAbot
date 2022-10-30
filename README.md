@@ -9,7 +9,7 @@ Open-Source platform to monitor plant health and optimize on agriculture through
 - It is sometimes difficult to know the optimal time to plant without data.
 - Manually measuring key data points about crops is often difficult, time-consuming, and more likely to be inaccurate.
 
-![Untitled-1](https://user-images.githubusercontent.com/58347016/190915456-4ac5c11f-c471-4699-b95f-64c1794c679a.jpg)
+![UIflow](https://user-images.githubusercontent.com/58347016/198899923-8cd2c9a6-37b9-408d-8123-a1026fe6f3a6.jpg)
 FLORAbot allows plantation owners to instantly know several agricultural data points about their crop.
 -	Soil Moisture (VWC)
 -	UVA/B irradiance
@@ -21,3 +21,5 @@ The answer is that we can know what they want, which will help us to respond to 
 Hence for PoC development, the solution utilizes WizFi360-EVB-Pico board that will be interfaced to capacitive moisture sensor, UV irradiance and Sparkfun Environment Sensor [CCS811+BME280] for real-time monitoring of plantation. Data sampling and processing will be done on RP2040 chipset and communication will be done through WizFi360-PA chipset. The entire device is fashioned around to be powered through battery or USB and enclosed in all-weather custom enclosure. Device communicates sensor data over MQTT to Home-Assistant/ HASS Server hosted natively on Raspberry PI 4.
 The end user can set the schedule, perform automations and create scenes with beautiful dashboards via HASS App.
 Through Advanced Mode (more likely to be used by home-growners and hobbyist gardeners), the FLORAbot allows user to interact directly with his/her plant through Alexa/Google Home Service, for this functionality the device utilizes Google Speech Engine Service to converse in a more human-friendly manner such as local weather updates, water requirement, daily-greets and n-things that can be done by user.
+
+Demo: https://youtu.be/0GKHVBIlNC8
